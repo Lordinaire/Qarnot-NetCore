@@ -1,1 +1,6 @@
 .vscode
+/netcoreapp/.vs/Rendering/v15
+/netcoreapp/Rendering/bin
+/netcoreapp/Rendering/obj
+/netcoreapp/Rendering/Properties/PublishProfiles
+/netcoreapp/Rendering/Rendering.csproj.user
